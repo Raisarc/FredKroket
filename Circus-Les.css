@@ -1,10 +1,10 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/pro-VHtfVHXH.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/pro-RhOivSRS.jpg');
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 983px;
+  min-height: 891px;
 }
 
 .u-section-1 .u-text-1 {
@@ -24,7 +24,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 31px 473px 60px 0;
+  margin: 30px 473px 60px 0;
 }
 
 @media (max-width: 1199px) {
@@ -149,7 +149,7 @@
 }
 
 .u-section-2 .u-container-layout-3 {
-  padding: 74px 49px;
+  padding: 74px 50px;
 }
 
 .u-section-2 .u-text-5 {
@@ -161,7 +161,7 @@
 .u-section-2 .u-text-6 {
   font-size: 1.25rem;
   line-height: 2;
-  margin: 47px auto 0 1px;
+  margin: 47px auto 0 0;
 }
 
 @media (max-width: 1199px) {

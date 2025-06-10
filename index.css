@@ -1262,8 +1262,12 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1012px;
+  }
+
   .u-section-4 .u-list-1 {
-    margin-top: 167px;
+    margin-top: 30px;
   }
 
   .u-section-4 .u-repeater-1 {
@@ -1379,7 +1383,7 @@
 
 @media (max-width: 767px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 1384px;
+    min-height: 1537px;
   }
 
   .u-section-5 .u-image-1 {
